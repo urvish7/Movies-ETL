@@ -5,19 +5,19 @@ Amazing Prime loves the dataset and wants to keep it updated on a daily basis. B
 
 ## Deliverable 1: Write an ETL Function to Read Three Data Files 
 
-![ETL_function_test.ipynb](https://github.com/urvish7/Movies-ETL/blob/main/ETL_function_test.ipynb)
+[ETL_function_test.ipynb](https://github.com/urvish7/Movies-ETL/blob/main/ETL_function_test.ipynb)
 
 ## Deliverable 2: Extract and Transform the Wikipedia Data
 
-![ETL_clean_wiki_movies.ipynb](https://github.com/urvish7/Movies-ETL/blob/main/ETL_clean_wiki_movies.ipynb)
+[ETL_clean_wiki_movies.ipynb](https://github.com/urvish7/Movies-ETL/blob/main/ETL_clean_wiki_movies.ipynb)
 
 ## Deliverable 3: Extract and Transform the Kaggle Data
 
-![ETL_clean_kaggle_data.ipynb](https://github.com/urvish7/Movies-ETL/blob/main/ETL_clean_kaggle_data.ipynb)
+[ETL_clean_kaggle_data.ipynb](https://github.com/urvish7/Movies-ETL/blob/main/ETL_clean_kaggle_data.ipynb)
 
 ## Deliverable 4: Create the Movie Database
 
-![ETL_create_database.ipynb](https://github.com/urvish7/Movies-ETL/blob/main/ETL_create_database.ipynb)
+[ETL_create_database.ipynb](https://github.com/urvish7/Movies-ETL/blob/main/ETL_create_database.ipynb)
 
 ## The output in the database for the row counts:
 
